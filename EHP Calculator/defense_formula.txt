@@ -1,0 +1,5 @@
+Damage Reduction = Defense / (Defense + Defense Constant)
+
+Damage Reduction: The percentage of damage reduced by your defense.
+Defense: The amount of defense the character has.
+Defense Constant: A constant value that determines the effectiveness of each point of defense. For this scenario, the Defense Constant is 15,000.
